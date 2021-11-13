@@ -1,0 +1,15 @@
+# ninja log v5
+2	313	1636537285	CMakeFiles/xhookdemo.dir/Maps.cpp.o	a89ade407c5df9d3
+0	352	1636537285	CMakeFiles/xhookdemo.dir/XHook/xh_log.c.o	b7785cf36b6e4021
+1	360	1636537285	CMakeFiles/xhookdemo.dir/XHook/xh_version.c.o	93ec882750ef2db0
+1	362	1636537285	CMakeFiles/xhookdemo.dir/XHook/xhook.c.o	66700d961fcb890
+2	363	1636537285	CMakeFiles/xhookdemo.dir/XHook/xhook_ext.c.o	2ff144f784ca046a
+0	363	1636537285	CMakeFiles/xhookdemo.dir/XHook/xh_jni.c.o	7b0725aa8f321abc
+1	375	1636537285	CMakeFiles/xhookdemo.dir/XHook/xh_util.c.o	6f8be697ec86b206
+0	398	1636537285	CMakeFiles/xhookdemo.dir/XHook/xh_elf.c.o	e6780d66f90e0fcf
+3	399	1636537285	CMakeFiles/xhookdemo.dir/WVMemoryHookJNI.cpp.o	257eaad87cf786cc
+0	406	1636537285	CMakeFiles/xhookdemo.dir/XHook/xh_core.c.o	e449db3f43784f89
+3	459	1636537286	CMakeFiles/xhookdemo.dir/WVMemoryHook.cpp.o	e4348b7e614acf2a
+459	628	1636537286	/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/6cs62495/obj/arm64-v8a/libxhookdemo.so	8b54886787abc507
+4	556	1636624015	CMakeFiles/xhookdemo.dir/WVMemoryHook.cpp.o	e4348b7e614acf2a
+556	725	1636624015	/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/6cs62495/obj/arm64-v8a/libxhookdemo.so	8b54886787abc507

@@ -1,0 +1,7 @@
+Executable : /Users/janssen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/622ir81x/armeabi-v7a
+xhookdemo
+jvmArgs : 
+

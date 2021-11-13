@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/RelWithDebInfo/4x4o4ei2/armeabi-v7a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot  -Dxhookdemo_EXPORTS -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/xhookdemo.dir/native-lib.cpp.o -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/native-lib.cpp"
+}
+]

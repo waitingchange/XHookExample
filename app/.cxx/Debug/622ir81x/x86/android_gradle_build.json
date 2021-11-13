@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/janssen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/622ir81x/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/janssen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/622ir81x/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "xhookdemo-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/janssen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/622ir81x/x86",
+        "xhookdemo"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "xhookdemo",
+      "output": "/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/622ir81x/obj/x86/libxhookdemo.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

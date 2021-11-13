@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/xhookdemo.dir/XHook/xh_core.c.o   -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_core.c",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_core.c"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/xhookdemo.dir/XHook/xh_elf.c.o   -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_elf.c",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_elf.c"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/xhookdemo.dir/XHook/xh_jni.c.o   -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_jni.c",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_jni.c"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/xhookdemo.dir/XHook/xh_log.c.o   -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_log.c",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_log.c"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/xhookdemo.dir/XHook/xh_util.c.o   -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_util.c",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_util.c"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/xhookdemo.dir/XHook/xh_version.c.o   -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_version.c",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xh_version.c"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/xhookdemo.dir/XHook/xhook.c.o   -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xhook.c",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xhook.c"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/xhookdemo.dir/XHook/xhook_ext.c.o   -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xhook_ext.c",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook/xhook_ext.c"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot  -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++1z -o CMakeFiles/xhookdemo.dir/Maps.cpp.o -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/Maps.cpp",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/Maps.cpp"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot  -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++1z -o CMakeFiles/xhookdemo.dir/WVMemoryHook.cpp.o -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/WVMemoryHook.cpp",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/WVMemoryHook.cpp"
+},
+
+{
+  "directory": "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a",
+  "command": "/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android --gcc-toolchain=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot  -Dxhookdemo_EXPORTS -I/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/XHook -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/janssen/Library/Android/sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++1z -o CMakeFiles/xhookdemo.dir/WVMemoryHookJNI.cpp.o -c /Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/WVMemoryHookJNI.cpp",
+  "file": "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/WVMemoryHookJNI.cpp"
+}
+]

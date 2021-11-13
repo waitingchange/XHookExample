@@ -1,0 +1,24 @@
+# ninja log v5
+2	171	1636775395	CMakeFiles/xhookdemo.dir/XHook/xh_log.c.o	b7785cf36b6e4021
+2	177	1636775395	CMakeFiles/xhookdemo.dir/XHook/xh_version.c.o	93ec882750ef2db0
+3	178	1636775395	CMakeFiles/xhookdemo.dir/XHook/xhook.c.o	66700d961fcb890
+3	178	1636775395	CMakeFiles/xhookdemo.dir/XHook/xhook_ext.c.o	2ff144f784ca046a
+1	180	1636775395	CMakeFiles/xhookdemo.dir/XHook/xh_jni.c.o	7b0725aa8f321abc
+2	206	1636775395	CMakeFiles/xhookdemo.dir/XHook/xh_util.c.o	6f8be697ec86b206
+0	251	1636775395	CMakeFiles/xhookdemo.dir/XHook/xh_core.c.o	e449db3f43784f89
+1	252	1636775395	CMakeFiles/xhookdemo.dir/XHook/xh_elf.c.o	e6780d66f90e0fcf
+4	402	1636775396	CMakeFiles/xhookdemo.dir/Maps.cpp.o	ea66cc6eda8c496e
+5	419	1636775396	CMakeFiles/xhookdemo.dir/WVMemoryHookJNI.cpp.o	faa8814776d5cf3e
+4	486	1636775396	CMakeFiles/xhookdemo.dir/WVMemoryHook.cpp.o	24ef61897199988f
+486	630	1636775396	/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/deu43695/obj/arm64-v8a/libxhookdemo.so	aab1a0082aba94b
+1	258	1636777290	CMakeFiles/xhookdemo.dir/WVMemoryHook.cpp.o	24ef61897199988f
+258	386	1636777290	/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/deu43695/obj/arm64-v8a/libxhookdemo.so	aab1a0082aba94b
+2	60	1636782395	CMakeFiles/xhookdemo.dir/XHook/xhook_ext.c.o	2ff144f784ca046a
+1	106	1636782395	CMakeFiles/xhookdemo.dir/XHook/xh_core.c.o	e449db3f43784f89
+2	297	1636782396	CMakeFiles/xhookdemo.dir/WVMemoryHook.cpp.o	24ef61897199988f
+297	452	1636782396	/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/deu43695/obj/arm64-v8a/libxhookdemo.so	aab1a0082aba94b
+2	46	1636782453	CMakeFiles/xhookdemo.dir/XHook/xhook.c.o	66700d961fcb890
+2	46	1636782453	CMakeFiles/xhookdemo.dir/XHook/xhook_ext.c.o	2ff144f784ca046a
+2	98	1636782453	CMakeFiles/xhookdemo.dir/XHook/xh_core.c.o	e449db3f43784f89
+3	327	1636782453	CMakeFiles/xhookdemo.dir/WVMemoryHook.cpp.o	24ef61897199988f
+327	497	1636782453	/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/deu43695/obj/arm64-v8a/libxhookdemo.so	aab1a0082aba94b

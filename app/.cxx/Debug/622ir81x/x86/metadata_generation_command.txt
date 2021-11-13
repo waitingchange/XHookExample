@@ -1,0 +1,24 @@
+                    Executable : /Users/janssen/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/janssen/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_NDK=/Users/janssen/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=/Users/janssen/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/janssen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_CXX_FLAGS=-std=c++11
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/622ir81x/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/622ir81x/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/622ir81x/x86
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

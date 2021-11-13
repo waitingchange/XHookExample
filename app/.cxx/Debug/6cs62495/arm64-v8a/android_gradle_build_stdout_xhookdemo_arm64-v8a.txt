@@ -1,0 +1,28 @@
+ninja: Entering directory `/Users/janssen/Documents/Android/XHookDemo/app/.cxx/Debug/6cs62495/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/xhookdemo.dir/WVMemoryHook.cpp.o
+/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/WVMemoryHook.cpp:286:83: warning: format specifies type 'unsigned int' but the argument has type 'size_t' (aka 'unsigned long') [-Wformat]
+            LOGI(LOG_TAG, "Unmap region [%p, +%" PRIu32 "] successfully.", start, size);
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~
+/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/Utils.h:20:55: note: expanded from macro 'LOGI'
+    __android_log_print(ANDROID_LOG_INFO, tag, fmt, ##args);
+                                                      ^~~~
+/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/WVMemoryHook.cpp:290:90: warning: format specifies type 'unsigned int' but the argument has type 'size_t' (aka 'unsigned long') [-Wformat]
+            LOGE(LOG_TAG, "Fail to unmap region [%p, +%" PRIu32 "], errcode: %d", start, size, errcode);
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~
+/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/Utils.h:26:56: note: expanded from macro 'LOGE'
+    __android_log_print(ANDROID_LOG_ERROR, tag, fmt, ##args);
+                                                       ^~~~
+/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/WVMemoryHook.cpp:332:120: warning: format specifies type 'unsigned int' but the argument has type 'size_t' (aka 'unsigned long') [-Wformat]
+                LOGI(LOG_TAG, "Reserved space located by parsing maps, start: %p, size: %" PRIu32, reservedSpaceStart, reservedSpaceSize);
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/Utils.h:20:55: note: expanded from macro 'LOGI'
+    __android_log_print(ANDROID_LOG_INFO, tag, fmt, ##args);
+                                                      ^~~~
+/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/WVMemoryHook.cpp:338:115: warning: format specifies type 'unsigned int' but the argument has type 'size_t' (aka 'unsigned long') [-Wformat]
+                LOGI(LOG_TAG, "Reserved space located by probing, start: %p, size: %" PRIu32, reservedSpaceStart, reservedSpaceSize);
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/Utils.h:20:55: note: expanded from macro 'LOGI'
+    __android_log_print(ANDROID_LOG_INFO, tag, fmt, ##args);
+                                                      ^~~~
+4 warnings generated.
+[2/2] Linking CXX shared library /Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/Debug/6cs62495/obj/arm64-v8a/libxhookdemo.so

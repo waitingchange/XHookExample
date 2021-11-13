@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/janssen/Documents/Android/XHookDemo/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/janssen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/RelWithDebInfo/6y29396g/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/janssen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/RelWithDebInfo/6y29396g/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "xhookdemo-RelWithDebInfo-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/janssen/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/janssen/Documents/Android/XHookDemo/app/.cxx/RelWithDebInfo/6y29396g/arm64-v8a",
+        "xhookdemo"
+      ],
+      "buildType": "release",
+      "abi": "arm64-v8a",
+      "artifactName": "xhookdemo",
+      "output": "/Users/janssen/Documents/Android/XHookDemo/app/build/intermediates/cxx/RelWithDebInfo/6y29396g/obj/arm64-v8a/libxhookdemo.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
